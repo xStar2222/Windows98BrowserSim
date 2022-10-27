@@ -1,0 +1,247 @@
+body {
+    background-color: #008081;
+}
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+
+ p1 {
+    white-space: pre;
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p1{
+    position: relative;
+    margin-top: 45px;
+}
+
+p1 {
+    z-index: 100;
+    position: absolute;
+    left: 10px;
+    top: 60px;
+    color: aliceblue;
+  }
+
+  .tab {
+    position: absolute;
+    top: 10px;
+    left: 23px;
+}
+
+.doc {
+    position: absolute;
+    top: 100px;
+    left: 22px;
+}
+
+p2 {
+    white-space: pre;
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p2{
+    position: relative;
+    margin-top: 45px;
+}
+
+p2 {
+    z-index: 100;
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    color: aliceblue;
+  }
+
+  .net {
+    position: absolute;
+    top: 190px;
+    left: 23px;
+}
+
+p3 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p3{
+    position: relative;
+    margin-top: 45px;
+}
+
+p3 {
+    z-index: 100;
+    position: absolute;
+    left: 8px;
+    top: 244px;
+    color: aliceblue;
+  }
+
+  .bin {
+    position: absolute;
+    top: 292px;
+    left: 18px;
+}
+
+p3 {
+    text-align: center;
+  }
+
+  p4 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p4{
+    position: relative;
+    margin-top: 45px;
+}
+
+p4 {
+    z-index: 100;
+    position: absolute;
+    left: 9px;
+    top: 348px;
+    color: aliceblue;
+  }
+
+  p5 {
+    text-align: center;
+  }
+
+  p5 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p5{
+    position: relative;
+    margin-top: 45px;
+}
+
+p5 {
+    z-index: 100;
+    position: absolute;
+    left: 13px;
+    top: 436px;
+    color: aliceblue;
+  }
+
+  .ie {
+    position: absolute;
+    top: 380px;
+    left: 12px;
+}
+
+.start{
+    height: 50px; 
+    left: -15px;
+    top: 902px;
+    position: relative;
+    z-index: 9;
+}
+
+.button{
+    height: 50px; 
+    width: 10000px;
+    top: 910px;
+    left: -5px;
+    position: absolute;
+}
+
+
+p7 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: 900;
+    font-size: 12px;
+    top: -6px;
+    line-height: normal;
+}
+
+.note {
+    position: absolute;
+    top: 480px;
+    left: 11px;
+}
+
+
+p8 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p8{
+    position: relative;
+    margin-top: 45px;
+}
+
+p8 {
+    z-index: 100;
+    position: absolute;
+    left: 12px;
+    top: 534px;
+    color: aliceblue;
+  }
+
+  .bin {
+    position: absolute;
+    top: 292px;
+    left: 18px;
+}
+
+p8 {
+    text-align: center;
+  }
+
+  p9 {
+    text-align: center;
+  }
+
+  p9 {
+    position: relative;
+    font-family: Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+}
+
+.p9{
+    position: relative;
+    margin-top: 45px;
+}
+
+p9 {
+    z-index: 100;
+    position: absolute;
+    left: 14px;
+    top: 626px;
+    color: aliceblue;
+  }
+
+  .paint {
+    position: absolute;
+    top: 570px;
+    left: 10px;
+}
