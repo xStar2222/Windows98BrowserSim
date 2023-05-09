@@ -1,7 +1,7 @@
 # Windows 98 BrowserSim
 *Simulator That Lets You Use Windows 98 In Your Browser! (Not Completed Yet)*
 
-Click [Here](https://windows-98-sim.netlify.app/) To Visit The Site!
+Click [Here](https://windows-98-sim.netlify.app/) To Visit The Site! Please note; only the paint feature works as of right now.
 
 # To Do
 * Get an actual domain
